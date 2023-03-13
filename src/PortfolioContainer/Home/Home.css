@@ -1,0 +1,11 @@
+.home-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-width: 670px;
+    background-image:url(../../assets/Home/bg1.jpeg);
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
